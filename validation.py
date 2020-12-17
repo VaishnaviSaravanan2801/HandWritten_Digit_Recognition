@@ -16,4 +16,4 @@ digits.target[1791:1797]
 # Accuracy
 from sklearn.metrics import accuracy_score
 accuracy=accuracy_score(y_test,y_pred)*100
-print(accuracy)
+print(accuracy
