@@ -7,7 +7,7 @@ print(digits.DESCR)
 digits.images[0]
 import matplotlib.pyplot as plt
 get_ipython().run_line_magic('matplotlib', 'inline')
-plt.imshow(digits.images[0], cmap=plt.cm.gray_r, interpolation='nearest')
+plt.imshow(digits.images[0], cmap=plt.cm.gray_r, interpolation='nearest'
 dir(digits)
 print(type(digits.images))
 print(type(digits.target))
