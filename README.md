@@ -15,4 +15,4 @@ Support Vector Classification (SVC).
 - necessary libraries and packages installed
 
 ### Contributors:
--
+- Vaishnavi Saravanan(https://github.com/VaishnaviSaravanan2801)
