@@ -6,4 +6,4 @@ sns.heatmap(cm, annot=True, fmt=".3f", linewidths=.5, square = True, cmap = 'Pas
 plt.ylabel('Actual label');
 plt.xlabel('Predicted label');
 all_sample_title = 'Accuracy Score: {0}'.format(accuracy)
-plt.title(all_sample_title, size = 15)
+plt.title(all_sample_title, size = 15);
