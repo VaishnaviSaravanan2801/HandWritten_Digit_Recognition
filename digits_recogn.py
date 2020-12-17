@@ -25,4 +25,4 @@ plt.imshow(digits.images[1794], cmap=plt.cm.gray_r, interpolation='nearest')
 plt.subplot(325)
 plt.imshow(digits.images[1795], cmap=plt.cm.gray_r, interpolation='nearest')
 plt.subplot(326)
-plt.imshow(digits.images[1796], cmap=plt.cm.gray_r, interpolation='nearest')
+plt.imshow(digits.images[1796], cmap=plt.cm.gray_r, interpolation='nearest'
